@@ -8,6 +8,9 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leechg31@gmail.com)](mailto:leechg31@gmail.com)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dduntorry.tistory.com/)](https://dduntorry.tistory.com/)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechg31&layout=compact)](https://github.com/leechg31/github-readme-stats)
+
+  
 ![leechg31's github stats](https://github-readme-stats.vercel.app/api?username=leechg31&show_icons=true)
 
 <!--
