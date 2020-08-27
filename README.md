@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi 👋
+### I'm interested in Android & Server
 
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leechg31@gmail.com)](mailto:leechg31@gmail.com)
+
 
 <!--
 **leechg31/leechg31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
