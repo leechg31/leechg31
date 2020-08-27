@@ -9,7 +9,7 @@
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leechg31.github.io/)](https://leechg31.github.io/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leechg31@gmail.com)](mailto:leechg31@gmail.com)
-  [![Tistory Badge](https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&link=https://dduntorry.tistory.com/)](https://dduntorry.tistory.com/)
+  [![Tistory Badge](https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=black&link=https://dduntorry.tistory.com/)](https://dduntorry.tistory.com/)
 
 
 <!--
