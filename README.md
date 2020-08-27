@@ -7,6 +7,7 @@
 	
   </div>
   
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leechg31.github.io/)](https://leechg31.github.io/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leechg31@gmail.com)](mailto:leechg31@gmail.com)
 
 
