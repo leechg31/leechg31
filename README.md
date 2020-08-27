@@ -8,7 +8,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leechg31@gmail.com)](mailto:leechg31@gmail.com)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dduntorry.tistory.com/)](https://dduntorry.tistory.com/)
   
-
+![leechg31's github stats](https://github-readme-stats.vercel.app/api?username=leechg31&show_icons=true)
 
 <!--
 **leechg31/leechg31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
