@@ -1,6 +1,6 @@
 <div align=center
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechg31&count_bg=%2379C83D&title_bg=%23555555&icon_color=333&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechg31%2Fleechg31&count_bg=%2306A1F1&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechg31&layout=compact&theme=onedark)](https://github.com/leechg31/github-readme-stats)
 
