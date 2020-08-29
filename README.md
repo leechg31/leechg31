@@ -2,10 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechg31&count_bg=%2379C83D&title_bg=%23555555&icon_color=333&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechg31&layout=compact&theme=gradient)](https://github.com/leechg31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechg31&layout=compact&theme=onedark)](https://github.com/leechg31/github-readme-stats)
 
   
-![leechg31's github stats](https://github-readme-stats.vercel.app/api?username=leechg31&show_icons=true&theme=gradient)
+![leechg31's github stats](https://github-readme-stats.vercel.app/api?username=leechg31&show_icons=true&theme=onedark)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leechg31.github.io/)](https://leechg31.github.io/)
